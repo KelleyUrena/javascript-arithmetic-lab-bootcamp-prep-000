@@ -14,12 +14,12 @@ function divide (a, b) {
   return a/b
 }
 
-function increments (n) {
+function inc(n) {
   n++
   return n
 }
 
-function decrements(n){
+function dec(n){
  n--
  return n
 } 
